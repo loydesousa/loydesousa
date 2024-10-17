@@ -23,7 +23,7 @@
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=loydesousa&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=loydesousa&show_icons=true"

@@ -1,11 +1,11 @@
-## Hi, I'm Loyde Dourado (BackEnd Developer 👩🏽‍💻)
+## Hi, I'm Loyde Dourado (Software Engineer 👩🏽‍💻)
 
 - 🔭 I’m currently studying Computer Science, I'm a very communicative person, I love learning about technology, not just because I wanna work with it, but because I know technology can change lives and it's also very exciting. 
 - 🌱 I’m currently learning ☕Java and 🍃Spring Boot
 - 🍁 I can work already with Git and Github
 
 ## Hard Skills💪🏽
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width="50" heigth="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="50" heigth="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" heigth="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="80" heigth="80"/>   
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width="50" heigth="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="80" heigth="80"/>   
 
 ## Soft Skills🙋🏽‍♀️
 - 🎤 Comunication

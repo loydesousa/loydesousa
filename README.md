@@ -1,8 +1,6 @@
 ## Hi, I'm Loyde Dourado (Software Engineer 👩🏽‍💻)
 
-- 🔭 I’m currently studying Computer Science, I'm a very communicative person, I love learning about technology, not just because I wanna work with it, but because I know technology can change lives and it's also very exciting. 
-- 🌱 I’m currently learning ☕Java and 🍃Spring Boot
-- 🍁 I can work already with Git and Github
+- 🔭 🔭 I’m currently studying Computer Science in my third semester and focusing on becoming a software engineer, I've been studyind java and some of the tools from its plataform, like Spring Framewook and also doing some coding to pratice what i have learnt. Sooner I'll start posting them, they also have stories behind them, specially the ones that I wanna built for Formula One, so I will make sure I'll tell you all.
 
 ## Hard Skills💪🏽
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width="50" heigth="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="80" heigth="80"/>   

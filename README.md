@@ -16,16 +16,3 @@
   <a href = "mailto:loydedourado15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/loyde-dourado-74649b285" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-## Stats📊
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=loydesousa&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: light)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=loydesousa&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=loydesousa&show_icons=true"/>
-</picture>

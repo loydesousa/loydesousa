@@ -1,6 +1,6 @@
-## Hi, I'm Loyde Dourado (Software Engineer 👩🏽‍💻)
+## Hi, I'm Loyde Dourado (Aspirant Data Engineer 👩🏽‍💻)
 
-- 🔭 🔭 I’m currently studying Computer Science in my third semester and focusing on becoming a software engineer, I've been studyind java and some of the tools from its plataform, like Spring Framewook and also doing some coding to pratice what i have learnt. Sooner I'll start posting them, they also have stories behind them, specially the ones that I wanna built for Formula One, so I will make sure I'll tell you all.
+- 🔭 🔭 I’m currently studying Computer Science in my third semester and focusing on becoming a data engineer, I've been studyind python, java, sql and some other tools like Spring Framewook and also doing some coding to pratice what i have learnt. Sooner I'll start posting them, they also have stories behind them, specially the ones that I wanna built for Formula One, so I will make sure I'll tell you all.
 
 ## Hard Skills💪🏽
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width="50" heigth="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="80" heigth="80"/>   

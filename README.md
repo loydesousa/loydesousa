@@ -1,6 +1,6 @@
 ## Hi, I'm Loyde Dourado (Aspirant Data Engineer 👩🏽‍💻)
 
-- 🔭 🔭 I’m currently studying Computer Science in my third semester and focusing on becoming a data engineer, I've been studyind python, sql and also doing some coding to pratice what i have learnt. Sooner I'll start posting them, they also have stories behind them, specially the ones that I wanna built for Formula One, so I will make sure I'll tell you all.
+- 🔭 🔭 I’m currently majoring Computer Science and focusing on becoming a data engineer, I've been studyind python, sql and also doing some coding to pratice what i have learnt. Sooner I'll start posting them, they also have stories behind them, specially the ones that I wanna built for the data field, so I will make sure I'll show you all.
 
 ## Hard Skills💪🏽
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  width="60" heigth="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="80" heigth="80"/>   

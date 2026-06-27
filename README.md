@@ -16,4 +16,4 @@
   <a href = "mailto:loydedourado15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/loyde-dourado-74649b285" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-Segue meu portfólio: https://canva.link/4d2i94bb7r4s1x9
+<div>Segue meu portfólio: <a href=https://canva.link/4d2i94bb7r4s1x9>Portfólio Canva</a> </div>

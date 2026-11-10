@@ -18,4 +18,7 @@
 </div>
 <b>
  <b>
-<div>Segue meu portfólio: <a href=https://canva.link/4d2i94bb7r4s1x9>Portfólio Canva</a> </div>
+  <b>
+   <b>
+    <b>
+<div>Segue meu portfólio: <a href=https://loydesousa.github.io/portfoliowebsite/>Portfólio Canva</a> </div>
